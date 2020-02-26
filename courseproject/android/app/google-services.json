@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025643905479",
+    "firebase_url": "https://courseproject-1d2b9.firebaseio.com",
+    "project_id": "courseproject-1d2b9",
+    "storage_bucket": "courseproject-1d2b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025643905479:android:d1b5d5572d3f8b7c1c59e2",
+        "android_client_info": {
+          "package_name": "com.example.courseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025643905479-fnk5vheap4esdrcq4gbhetk00d2odf5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjcilYQTQbX_cgMwcIrGKpQJqAg_Etmr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025643905479-fnk5vheap4esdrcq4gbhetk00d2odf5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
